@@ -1,12 +1,12 @@
 This is the project readme files (FL).
 
 # Tipos 
-Há varios tipos de ficheiros
+Há dois tipos de ficheiros
 
 
 ## Tipo A
-Sao uns tipos chatos
+Ficheiros de txt
 
 
 ## Tipo B
-Sao uns tipos assustadores
+Ficheiros binários (imagens, audio, video, etc)
